@@ -1,3 +1,6 @@
+# CamJam EduKit 2 - Sensors
+# Worksheet 3 - Temperature
+
 # Import Libraries
 import os
 import glob
@@ -15,7 +18,7 @@ device_file = device_folder + '/w1_slave'
 # A function that reads the sensors data
 def read_temp_raw():
     f = open(device_file, 'r') # Opens the temperature device file
-    lines = f.readlines() # Returns the text 
+    lines = f.readlines() # Returns the text
     f.close()
     return lines
 
