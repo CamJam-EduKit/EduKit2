@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a0a8cea-3382-41bc-bad6-71075e6fc8ec" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/CamJam EduKit 2 - Sensors Worksheet 1 - Introduction.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/CamJam EduKit 2 - Sensors Worksheet 2 - LEDs and Buzzer.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/CamJam EduKit 2 - Sensors Worksheet 3 - Temperature.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/CamJam EduKit 2 - Sensors Worksheet 4 - Light.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/CamJam EduKit 2 - Sensors Worksheet 5 - Movement.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/CamJam EduKit 2 - Sensors Worksheet 6 - Alarm.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/1-helloworld.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/2-LEDBuzz.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/3-temperature.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/4-LDR.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/5-PIR.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/6-Alarm.py" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code GPIO Zero)/2-LEDBuzz.py" />
+        <option value="$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/6-Alarm.py" />
+        <option value="D:/Users/softw/Downloads/glacier-vault-remove-master/glacier-vault-remove-master/removeVault.py" />
+        <option value="$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/2-LEDBuzz.py" />
+        <option value="$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/4-LDR.py" />
+        <option value="$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/5-PIRv2.py" />
+        <option value="$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/5-PIR.py" />
+        <option value="$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/3-temperature.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EduKit2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EduKit2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EduKit2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EduKit2" type="462c0819:PsiDirectoryNode" />
+              <item name="CamJam EduKit 2 - GPIO Zero" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EduKit2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EduKit2" type="462c0819:PsiDirectoryNode" />
+              <item name="CamJam EduKit 2 - GPIO Zero" type="462c0819:PsiDirectoryNode" />
+              <item name="Code (GPIO Zero)" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EduKit3" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\softw\Documents\GitHub-Yorktown\EduKit2\CamJam EduKit 2 - GPIO Zero\Code (GPIO Zero)" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\softw\Documents\GitHub-Yorktown\EduKit2\CamJam EduKit 2 - RPi.GPIO" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0a8cea-3382-41bc-bad6-71075e6fc8ec" name="Default" comment="" />
+      <created>1507556294686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507556294686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/5-PIR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/6-Alarm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/3-temperature.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/1-helloworld.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/2-LEDBuzz.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/6-Alarm.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/5-PIR.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - RPi.GPIO/Code/4-LDR.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code GPIO Zero)/1-helloworld.py" />
+    <entry file="file://$PROJECT_DIR$/../EduKit1/CamJam EduKit 1 - GPIO Zero/Code (GPIO Zero)/2-leds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code GPIO Zero)/2-LEDBuzz.py" />
+    <entry file="file://D:/Google Drive/#CamJam/#CamJam EduKits/EduKit 2 Sensors/CamJam EduKit 2 - GPIO Zero/Code/2-LEDBuzz.py" />
+    <entry file="file://D:/Google Drive/#CamJam/#CamJam EduKits/EduKit 2 Sensors/CamJam EduKit 2 - GPIO Zero/Code/6-Alarm.py" />
+    <entry file="file://D:/Google Drive/#CamJam/#CamJam EduKits/EduKit 2 Sensors/CamJam EduKit 2 - GPIO Zero/Code/5-PIR.py" />
+    <entry file="file://D:/Google Drive/#CamJam/#CamJam EduKits/EduKit 2 Sensors/CamJam EduKit 2 - GPIO Zero/Code/4-LDR.py" />
+    <entry file="file://D:/Google Drive/#CamJam/#CamJam EduKits/EduKit 2 Sensors/CamJam EduKit 2 - GPIO Zero/Code/3-temperature.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/2-LEDBuzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/softw/Downloads/glacier-vault-remove-master/glacier-vault-remove-master/removeVault.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="177" column="61" lean-forward="false" selection-start-line="177" selection-start-column="61" selection-end-line="177" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/4-LDR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/5-PIRv2.py" />
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/3-temperature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/6-Alarm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CamJam EduKit 2 - GPIO Zero/Code (GPIO Zero)/5-PIR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
