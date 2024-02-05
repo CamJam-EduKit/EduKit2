@@ -7,6 +7,6 @@ The code contained within this repository is for use with the CamJam Edukit 2 - 
 There are two versions of the worksheets and code:
 
 * The GPIO Zero version uses the [GPIO Zero library](https://www.raspberrypi.org/blog/gpio-zero-a-friendly-python-api-for-physical-computing/). This is the recommended version for new Python programmers.
-* The RPI.GPIO version uses the original GPIO library.
+* The RPI.GPIO version uses the original GPIO library. These have not been updated for many years, and so are unlikely to work.
 
 The kit costs only £8 including UK VAT, and is available from [The Pi Hut](http://thepihut.com/collections/camjam-edukit)
