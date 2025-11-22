@@ -1,9 +1,9 @@
-# CamJam EduKit 2 - Sensors (GPIO Zero)
+# CamJam EduKit 2 - Sensors
 # Worksheet 2 - LEDs and Buzzer
 
 # Import Python libraries
-from gpiozero import LED, Buzzer
 import time
+from gpiozero import LED, Buzzer
 
 # Set up the LEDs and Buzzer
 red = LED(18)

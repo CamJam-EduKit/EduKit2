@@ -9,10 +9,10 @@ sensor = W1ThermSensor()
 
 # Print out the temperature until the program is stopped.
 while True:
-  temp_C = sensor.get_temperature(Unit.DEGREES_C)
-  temp_F = sensor.get_temperature(Unit.DEGREES_F)
+    temp_c = sensor.get_temperature(Unit.DEGREES_C)
+    temp_f = sensor.get_temperature(Unit.DEGREES_F)
 
-  print(temp_C, " Celsius")
-  print(temp_F, " Fahrenheit")
+    print(temp_c, " Celsius")
+    print(temp_f, " Fahrenheit")
 
-  time.sleep(1)
+    time.sleep(1)

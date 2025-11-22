@@ -3,29 +3,31 @@
 
 # Import Libraries
 import time
-import RPi.GPIO as GPIO
+from RPi import GPIO
 
-# Set the GPIO Mode and set the pin to use for the
+# Set up the GPIO Mode
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 
-# A variable with the LDR reading pin number
-pinldr = 27
+# The Light Sensor pin number
+PIN_LIGHT = 27
 
 
-def readldr():
+def read_ldr():
     ldrcount = 0  # Sets the count to 0
-    GPIO.setup(pinldr, GPIO.OUT)
-    GPIO.output(pinldr, GPIO.LOW)
+    GPIO.setup(PIN_LIGHT, GPIO.OUT)
+    GPIO.output(PIN_LIGHT, GPIO.LOW)
     time.sleep(0.1)  # Drains all charge from the capacitor
 
-    GPIO.setup(pinldr, GPIO.IN)  # Sets the pin to be input
+    GPIO.setup(PIN_LIGHT, GPIO.IN)  # Sets the pin to be input
+
     # While the input pin reads 'off' or Low, count
-    while (GPIO.input(pinldr) == GPIO.LOW):
+    while GPIO.input(PIN_LIGHT) == GPIO.LOW:
         ldrcount += 1  # Add one to the counter
+
     return ldrcount
 
 
 while True:
-    print(readldr())
+    print(read_ldr())
     time.sleep(1)  # Wait for a second
